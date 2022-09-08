@@ -1,4 +1,3 @@
-create table data_pack (TABLE_NAME char(30), DATE_FIELD char(20), PRIMARY KEY (TABLE_NAME));
 HELLO
 HI
 GOOD
